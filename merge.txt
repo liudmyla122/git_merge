@@ -1,2 +1,4 @@
 Test merge conflict 1
-New text from in main brach
+
+New text from new_branch
+
