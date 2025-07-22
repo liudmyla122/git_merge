@@ -1,4 +1,1 @@
-Test merge conflict 1
-
-New text from new_branch
-
+Lomonos
